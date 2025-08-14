@@ -21,11 +21,3 @@ A full-stack **CRUD** application built with the **MERN stack** — **MongoDB**,
 | Express.js   | Backend framework for API routes |
 | React.js     | Frontend UI and state management |
 | Node.js      | Server-side runtime environment |
-
-## 📦 Installation
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/book-management-system.git
-cd book-management-system
