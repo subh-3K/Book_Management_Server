@@ -2,7 +2,7 @@
 
 A full-stack **CRUD** application built with the **MERN stack** — **MongoDB**, **Express.js**, **React.js**, and **Node.js** — designed to help users efficiently manage personal or organizational libraries. The system supports adding, editing, deleting, and viewing books with a responsive and intuitive interface.
 
-🔗 [GitHub_Link] For Server (https://github.com/subh-3K/Book_Management_Client)
+🔗 [GitHub_Link] For Client (https://github.com/subh-3K/Book_Management_Client)
 
 ## 🚀 Features
 
