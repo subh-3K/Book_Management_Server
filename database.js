@@ -1,7 +1,7 @@
 const mongoose =require("mongoose")//import statement
 
 const databaseConnection=async()=>{
-   await mongoose.connect("mongodb+srv://rsubham4334:PZ4QFoOjRRuV9VmW@cluster0.tacz1wj.mongodb.net/bookstore") //db url
+   await mongoose.connect("URL/bookstore") //db url
     .then(()=>{
         console.log("Database connection successfull");
     })
